@@ -1,2 +1,2 @@
 # mlworkshop2022
-SER 2022 Workshop: ABCs of Machine Learning
+Materials for the 2022 SER Workshop: Algorithms, Bootstrapping and Cross-Validation: The ABCs of Machine Learning for Epidemiologists
